@@ -120,6 +120,206 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/12e5d612ecde68cdda96d3e48b7c7de88221b35721c4af03607eecbf691d9f99_Road Bend.glb",
           "name": "Road Bend.glb"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sports Car Grey_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sports Car Grey_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/4ec1b47036c555853214edc20aa7f801ca935ea09c6e7a5156cfed6d723fdec2_Sports Car Grey_Moving_1.png",
+          "name": "Sports Car Grey_Moving_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sports Car Grey_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sports Car Grey_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/fe9532fe62dd91f6eb4943cb5cfd7e510961799b3650ee3f9f3fdbcb563a5761_Sports Car Grey_Moving_2.png",
+          "name": "Sports Car Grey_Moving_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sports Car Grey_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sports Car Grey_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/ee15de8bac3b650ffaa3a8a914ea1db219895eed4587bf0a80591883518dccf3_Sports Car Grey_Moving_3.png",
+          "name": "Sports Car Grey_Moving_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sports Car Grey_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sports Car Grey_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/d0e58f2e57d57c539d0d70ca4b90804d33ca9d8f68ce2e5dbd078c2239e9ed2f_Sports Car Grey_Moving_4.png",
+          "name": "Sports Car Grey_Moving_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Screenshot 2023-11-22 125944.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot 2023-11-22 125944.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Fall Trees Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Fall Trees Background.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/d9232895a8d5a45f7276ced919edba583b90d6335098b6cc886c6e72101334b4_tiled_Fall Trees Background.png",
+          "name": "tiled_Fall Trees Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "s_K61eOCTxejwOnCN2lpnA.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "s_K61eOCTxejwOnCN2lpnA.webp",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Race Future.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "0157875d8300ce22a4c4b49dea78554382221680b888c672540b48bdd584e4dd_Race Future.glb",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Cars/0157875d8300ce22a4c4b49dea78554382221680b888c672540b48bdd584e4dd_Race Future.glb",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Road Side.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Side.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/f8acab7f03ec4e4f340ee6be794863bc0c1e23028e6a0f7b7f0cbacf3d7f0f0d_Road Side.glb",
+          "name": "Road Side.glb"
+        }
+      },
+      {
+        "file": "assets/Road Slant Flat.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Slant Flat.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/6bd9531cad7756c36bab960afd46c295f8aececd43d175da534e4e5d775710f2_Road Slant Flat.glb",
+          "name": "Road Slant Flat.glb"
+        }
+      },
+      {
+        "file": "assets/Construction Barrier.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Construction Barrier.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/a433db3f3999bde19f80ae3516526991fe816c33e07af4e2f8f1c22775f83b8c_Construction Barrier.glb",
+          "name": "Construction Barrier.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (2).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (4).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (5).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "qFeWQn17QJe4B3-m0ZqbgA.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "qFeWQn17QJe4B3-m0ZqbgA.webp",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (4)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (4)2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "audi-v8-acceleration-sound-6067.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audi-v8-acceleration-sound-6067.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -151,69 +351,40 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.45986522709187516,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
         {
+          "angle": 1,
+          "customSize": true,
+          "depth": 1,
+          "height": 140,
+          "layer": "Car",
+          "name": "SportsCarGrey",
+          "persistentUuid": "6104e15d-9781-47fb-a15b-ce272c2fcfbe",
+          "width": 262,
+          "x": 7,
+          "y": 487,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1153,
+          "height": 507,
           "layer": "",
-          "name": "ForestBackground2",
-          "persistentUuid": "9a1b9e49-3edd-4385-86e8-1bbd60c2e5dc",
-          "width": 1983,
-          "x": 13,
-          "y": -60,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Car",
-          "name": "Race",
-          "persistentUuid": "f6e7163f-1677-4873-a8ba-f9aeded257f4",
-          "width": 0,
-          "x": 262,
-          "y": 906,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadSlantFlatCurve",
-          "persistentUuid": "ce8889e7-b3a5-4a3b-bc00-81e0baf0421a",
-          "width": 0,
-          "x": 560,
-          "y": 820,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "2734e833-4537-4c02-a53c-45d2f19c71d6",
-          "width": 0,
-          "x": 730,
-          "y": 821,
-          "zOrder": 4,
+          "name": "Volcanic_Background",
+          "persistentUuid": "3cf2e264-993b-4924-ad7a-f550cd917f9f",
+          "width": 576,
+          "x": 0,
+          "y": 0,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -221,61 +392,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 120,
+          "depth": 1,
+          "height": 507,
           "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "ec8422c3-bb33-4711-a042-da562f7de275",
-          "width": 694,
-          "x": 1133,
-          "y": 820,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 269,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "4343378f-ff86-43db-8478-ee8ffd8c47bf",
-          "width": 0,
-          "x": 1451,
-          "y": 909,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "depth": 2,
-          "height": 120,
-          "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "0c5b08fb-d55f-4536-85cf-1c004f1f464f",
-          "width": 422,
-          "x": 1630,
-          "y": 641,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 180,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "add2d37d-5ea2-49a7-ba6a-fdca88cd7387",
-          "width": 0,
-          "x": 1538,
-          "y": 461,
-          "zOrder": 7,
+          "name": "Volcanic_Background",
+          "persistentUuid": "c7243363-ef43-4647-8190-07c6e6e3b379",
+          "width": 576,
+          "x": 0,
+          "y": 500,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -283,75 +408,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 62,
-          "height": 120,
+          "depth": 1,
+          "height": 507,
           "layer": "",
-          "name": "RoadSlantFlatCurve",
-          "persistentUuid": "249f8af8-1060-4801-b70f-4364d82fef4e",
-          "width": 259,
-          "x": 1347,
-          "y": 280,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "83e0d3f3-c267-4936-9aa3-137428282f50",
-          "width": 0,
-          "x": 1261,
-          "y": 359,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 269,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "3783a621-7ea7-414f-8a0d-ccd0dcb16045",
-          "width": 0,
-          "x": 1077,
-          "y": 599,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "3361b304-667e-487b-b3e1-a6040354563a",
-          "width": 0,
-          "x": 1255,
-          "y": 477,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 91,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "c4ccea98-3c06-4f41-91b0-924467b63f81",
-          "width": 0,
-          "x": 1138,
-          "y": 605,
-          "zOrder": 12,
+          "name": "Volcanic_Background",
+          "persistentUuid": "c2c1eead-2de5-46fb-b648-69523b5ad251",
+          "width": 576,
+          "x": 1,
+          "y": 1005,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -359,60 +424,159 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 120,
+          "depth": 1,
+          "height": 507,
           "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "0e811125-a04b-42c5-a2ea-481625f0c0c7",
-          "width": 577,
-          "x": 705,
-          "y": 627,
-          "zOrder": 13,
+          "name": "Volcanic_Background",
+          "persistentUuid": "d88f3a44-5213-4ca6-bdca-a05df8d2c474",
+          "width": 576,
+          "x": 575,
+          "y": 0,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 269,
-          "customSize": false,
-          "height": 0,
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
           "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "436e957b-718d-4273-a82b-d0deec5ba904",
-          "width": 0,
-          "x": 956,
-          "y": 719,
-          "zOrder": 14,
+          "name": "Volcanic_Background",
+          "persistentUuid": "2eb0031b-c410-4fd7-8b7c-ee16c9a9d62c",
+          "width": 576,
+          "x": 575,
+          "y": 507,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 90,
-          "customSize": false,
-          "height": 0,
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
           "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "ac00028f-80d9-4f2c-953a-e359d2b43e3b",
-          "width": 0,
-          "x": 450,
-          "y": 715,
-          "zOrder": 15,
+          "name": "Volcanic_Background",
+          "persistentUuid": "aa2fda30-644e-4fee-b3a0-74e6fc010848",
+          "width": 576,
+          "x": 576,
+          "y": 1012,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 91,
-          "customSize": false,
-          "height": 0,
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 508,
           "layer": "",
-          "name": "RoadStraight",
-          "persistentUuid": "2a8bbf49-ad5f-4eec-ad08-a662438a7bad",
-          "width": 0,
-          "x": 449,
-          "y": 823,
-          "zOrder": 16,
+          "name": "Volcanic_Background",
+          "persistentUuid": "898a4d25-0182-4b3e-8554-dea0037d1b90",
+          "width": 576,
+          "x": 1148,
+          "y": 0,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
+          "layer": "",
+          "name": "Volcanic_Background",
+          "persistentUuid": "61f5c118-c2e6-453a-9fe3-e52cb23ae7ba",
+          "width": 576,
+          "x": 1146,
+          "y": 508,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
+          "layer": "",
+          "name": "Volcanic_Background",
+          "persistentUuid": "04546b6e-de53-4b47-8dc4-de93e29023c4",
+          "width": 576,
+          "x": 1724,
+          "y": 4,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
+          "layer": "",
+          "name": "Volcanic_Background",
+          "persistentUuid": "0922e3a5-0f5d-4c6e-8847-50ef0402df30",
+          "width": 576,
+          "x": 1719,
+          "y": 500,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
+          "layer": "",
+          "name": "Volcanic_Background",
+          "persistentUuid": "136ac644-18a2-468a-a2e0-6389d39369e5",
+          "width": 576,
+          "x": 1150,
+          "y": 1011,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 507,
+          "layer": "",
+          "name": "Volcanic_Background",
+          "persistentUuid": "198b1cf7-e42d-49c9-a0d8-67285596bc82",
+          "width": 576,
+          "x": 1715,
+          "y": 1004,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 781,
+          "layer": "visible track",
+          "name": "race_track_png",
+          "persistentUuid": "d1530c7f-4991-44a5-ac12-4d734aed91d6",
+          "width": 1923,
+          "x": -2,
+          "y": 171,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -421,13 +585,29 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
-          "name": "RoadBend",
-          "persistentUuid": "167bc45f-a7b4-4035-88ce-d1f2de5707c2",
+          "layer": "collectable items",
+          "name": "gasoline_barrel",
+          "persistentUuid": "87eb838d-7b16-4e0e-8c51-1014f649eff6",
           "width": 0,
-          "x": 357,
-          "y": 836,
-          "zOrder": 17,
+          "x": 1349,
+          "y": 450,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "layer": "collectable items",
+          "name": "NewSprite2",
+          "persistentUuid": "d9031708-b70e-46e4-8520-0388a4be54c8",
+          "width": 322,
+          "x": 1070,
+          "y": 421,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -435,167 +615,232 @@
       ],
       "objects": [
         {
-          "assetStoreId": "f37661bad9fbe02a297ff512308615be57cb11539887088ebb5db2b03c8dcdf9",
-          "name": "Race",
-          "type": "Scene3D::Model3DObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "MaxRotationSpeed_Physics",
-              "type": "SpeedRestrictions::MaxRotationSpeed_Physics",
-              "PhysicsBehavior": "Physics2",
-              "MaximumRotationSpeed": 2.143215748875e-312
-            },
-            {
-              "name": "Physics2",
-              "type": "Physics2::Physics2Behavior",
-              "bodyType": "Dynamic",
-              "bullet": false,
-              "fixedRotation": false,
-              "canSleep": true,
-              "shape": "Box",
-              "shapeDimensionA": 0,
-              "shapeDimensionB": 0,
-              "shapeOffsetX": 0,
-              "shapeOffsetY": 0,
-              "polygonOrigin": "Center",
-              "vertices": [],
-              "density": 1,
-              "friction": 0.3,
-              "restitution": 0.1,
-              "linearDamping": 0.1,
-              "angularDamping": 0.1,
-              "gravityScale": 1,
-              "layers": 1,
-              "masks": 1
-            },
-            {
-              "name": "SmoothCamera",
-              "type": "SmoothCamera::SmoothCamera",
-              "LeftwardSpeed": 0.9,
-              "RightwardSpeed": 0.9,
-              "UpwardSpeed": 0.9,
-              "DownwardSpeed": 0.9,
-              "FollowOnX": true,
-              "FollowOnY": true,
-              "FollowFreeAreaLeft": 0,
-              "FollowFreeAreaRight": 0,
-              "FollowFreeAreaTop": 0,
-              "FollowFreeAreaBottom": 0,
-              "CameraOffsetX": 0,
-              "CameraOffsetY": 0,
-              "CameraDelay": 0,
-              "ForecastTime": 0,
-              "ForecastHistoryDuration": 0,
-              "LogLeftwardSpeed": 0,
-              "LogRightwardSpeed": 0,
-              "LogDownwardSpeed": 0,
-              "LogUpwardSpeed": 0,
-              "DelayedCenterX": 0,
-              "DelayedCenterY": 0,
-              "ForecastHistoryMeanX": 0,
-              "ForecastHistoryMeanY": 0,
-              "ForecastHistoryVarianceX": 0,
-              "ForecastHistoryCovariance": 0,
-              "ForecastHistoryLinearA": 0,
-              "ForecastHistoryLinearB": 0,
-              "ForecastedX": 0,
-              "ForecastedY": 0,
-              "ProjectedNewestX": 0,
-              "ProjectedNewestY": 0,
-              "ProjectedOldestX": 0,
-              "ProjectedOldestY": 0,
-              "ForecastHistoryVarianceY": 0,
-              "Index": 0,
-              "CameraDelayCatchUpSpeed": 0,
-              "CameraExtraDelay": 0,
-              "WaitingSpeedXMax": 0,
-              "WaitingSpeedYMax": 0,
-              "WaitingEnd": 0,
-              "CameraDelayCatchUpDuration": 0,
-              "LeftwardSpeedMax": 9000,
-              "RightwardSpeedMax": 9000,
-              "UpwardSpeedMax": 9000,
-              "DownwardSpeedMax": 9000,
-              "OldX": 9000,
-              "OldY": 9000,
-              "IsCalledManually": false
-            },
-            {
-              "name": "SpeedPathMovement",
-              "type": "CurvedMovement::SpeedPathMovement",
-              "Rotation": true,
-              "RotationOffset": 0,
-              "Speed": 0,
-              "PathOriginX": 0,
-              "PathOriginY": 0,
-              "PathName": "",
-              "TargetedSpeed": 0,
-              "Acceleration": 0,
-              "DrawingElementIndex": 0,
-              "X": 0,
-              "Y": 0,
-              "PathAngle": 0,
-              "PathScale": 0,
-              "RepetitionCount": 0,
-              "ShouldLoop": false,
-              "DrawingPathOriginX": 0,
-              "DrawingPathOriginY": 0,
-              "DebugLineStrokeWidth": 0,
-              "PreviousSpeed": 0,
-              "CurrentLength": 0,
-              "IsLookingBack": false,
-              "Viewpoint": "Top-Down"
-            }
-          ],
-          "content": {
-            "centerLocation": "ModelOrigin",
-            "depth": 77,
-            "height": 77,
-            "keepAspectRatio": true,
-            "materialType": "StandardWithoutMetalness",
-            "modelResourceName": "Race.glb",
-            "originLocation": "ModelOrigin",
-            "rotationX": 90,
-            "rotationY": 0,
-            "rotationZ": -90,
-            "width": 77,
-            "animations": []
-          }
-        },
-        {
-          "assetStoreId": "29a35e4258a648e70b753fb4d1258b8f258608ad28955c51ac9f19dab31c3daf",
-          "height": 128,
-          "name": "ForestBackground2",
-          "texture": "tiled_Forest Background 2.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 128,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "68b3619d5f1160c84d46230811353a2efba542031d25217b390cc3f3badb928e",
-          "name": "RoadSlantFlatCurve",
-          "type": "Scene3D::Model3DObject",
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "01dbe0e6f12a0ca7f4e439bc0f8ffd15cc1f5fb9d336282c62c7d987733013e0",
+          "name": "SportsCarGrey",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "content": {
-            "centerLocation": "ModelOrigin",
-            "depth": 240,
-            "height": 240,
-            "keepAspectRatio": true,
-            "materialType": "StandardWithoutMetalness",
-            "modelResourceName": "Road Slant Flat Curve.glb",
-            "originLocation": "ModelOrigin",
-            "rotationX": 90,
-            "rotationY": 0,
-            "rotationZ": 0,
-            "width": 240,
-            "animations": []
-          }
+          "animations": [
+            {
+              "name": "Moving",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sports Car Grey_Moving_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sports Car Grey_Moving_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sports Car Grey_Moving_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sports Car Grey_Moving_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Volcanic_Background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "s_K61eOCTxejwOnCN2lpnA.webp",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 256,
+                            "y": 0
+                          },
+                          {
+                            "x": 256,
+                            "y": 256
+                          },
+                          {
+                            "x": 0,
+                            "y": 256
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "assetStoreId": "bbdd1d6c7d452e1847310eb327cddabe057cb893886f3a7a1af1c38e353eac92",
@@ -620,45 +865,220 @@
           }
         },
         {
-          "assetStoreId": "79a334f5403b6c2daa0625e37c715ede02c9283c06721ee917767f36efff8570",
-          "name": "RoadBend",
-          "type": "Scene3D::Model3DObject",
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "race_track_png",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "content": {
-            "centerLocation": "ModelOrigin",
-            "depth": 120,
-            "height": 120,
-            "keepAspectRatio": true,
-            "materialType": "StandardWithoutMetalness",
-            "modelResourceName": "Road Bend.glb",
-            "originLocation": "ModelOrigin",
-            "rotationX": 90,
-            "rotationY": 0,
-            "rotationZ": 0,
-            "width": 120,
-            "animations": []
-          }
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixil-frame-0 (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1000,
+                            "y": 0
+                          },
+                          {
+                            "x": 1000,
+                            "y": 781
+                          },
+                          {
+                            "x": 0,
+                            "y": 781
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "gasoline_barrel",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixil-frame-0 (5).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25,
+                            "y": 12
+                          },
+                          {
+                            "x": 137,
+                            "y": 12
+                          },
+                          {
+                            "x": 137,
+                            "y": 194
+                          },
+                          {
+                            "x": 25,
+                            "y": 194
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixil-frame-0 (4)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 56
+                          },
+                          {
+                            "x": 191,
+                            "y": 56
+                          },
+                          {
+                            "x": 191,
+                            "y": 210
+                          },
+                          {
+                            "x": 65,
+                            "y": 210
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Race"
+            "objectName": "SportsCarGrey"
           },
           {
-            "objectName": "ForestBackground2"
-          },
-          {
-            "objectName": "RoadSlantFlatCurve"
+            "objectName": "Volcanic_Background"
           },
           {
             "objectName": "RoadStraight"
           },
           {
-            "objectName": "RoadBend"
+            "objectName": "race_track_png"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "gasoline_barrel"
+          },
+          {
+            "objectName": "NewSprite2"
           }
         ]
       },
@@ -673,6 +1093,15 @@
               "parameters": [
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "SportsCarGrey",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -681,6 +1110,18 @@
                 "value": "PlayerAuthentication::DisplayAuthenticationBanner"
               },
               "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "audi-v8-acceleration-sound-6067.mp3",
+                "",
+                "",
                 ""
               ]
             }
@@ -714,6 +1155,70 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "visible track",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "collectable items",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         },
         {
           "ambientLightColorB": 200,
@@ -762,10 +1267,6 @@
           "type": "FlippableCapability::FlippableBehavior"
         },
         {
-          "name": "MaxRotationSpeed_Physics",
-          "type": "SpeedRestrictions::MaxRotationSpeed_Physics"
-        },
-        {
           "name": "Object3D",
           "type": "Scene3D::Base3DBehavior"
         },
@@ -774,28 +1275,12 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
-          "name": "Physics2",
-          "type": "Physics2::Physics2Behavior",
-          "gravityX": 0,
-          "gravityY": 9.8,
-          "scaleX": 100,
-          "scaleY": 100
-        },
-        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
-        },
-        {
-          "name": "SpeedPathMovement",
-          "type": "CurvedMovement::SpeedPathMovement"
         }
       ]
     }
